@@ -1,4 +1,4 @@
-# lvxing
+# lvxing NodeJs+Vue仿去哪儿网
 
 > A Vue.js project
 
